@@ -15,13 +15,12 @@ Welcome to the Accessibility Nigeria's GitHub repository! We are dedicated to pr
 
 ## About Us
 
-Accessibility Nigeria is an open-source organization focused on advocating for and implementing digital accessibility within Nigeria. We aim to support developers, designers, and content creators in making their digital content accessible to people with disabilities.
+Accessibility Nigeria is a nonprofit community in Nigeria that bridges the gap between People Living With Disability(PLWD) in the country, people who cater to PLWD directly, and society. The organization advocates for PLWD, creates awareness, and brings accessibility enthusiasts to Nigeria together. Accessibility Nigeria has the goal of creating an accessible web and environment for people living with disabilities in Nigeria.
 
 ## Mission
 
 Our mission is to:
 - Raise awareness about the importance of digital accessibility.
-- Provide practical resources and tools to aid in the creation of accessible digital environments.
 - Foster a community of contributors who are passionate about making the web and other digital spaces inclusive for everyone.
 
 ## Getting Started
